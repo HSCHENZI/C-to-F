@@ -1,1 +1,1 @@
-# C-to-F
+# Celsius Temp transfer to Fahrenheit Temp program
